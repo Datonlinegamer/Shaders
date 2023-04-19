@@ -2,4 +2,4 @@
  HLSL shaders
 1. Green wave
 
-https://vscode.dev/github/Datonlinegamer/Shaders/blob/9e45b1672a601a74225bb4bed984c0c494f01c4244cc
+![Wave - Made with Clipchamp](https://user-images.githubusercontent.com/54118211/232930263-2e021a2a-45f0-4f73-98b7-2d06d2d8adb8.gif)
