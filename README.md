@@ -1,9 +1,9 @@
 # Shaders
  HLSL shaders
-1. Green wave
+1. Green wave written in VScode.
 
    
-2.Custom lava shader made in UE5
+2.Custom lava shader made in UE5.
 
 
 ![Wave - Made with Clipchamp](https://user-images.githubusercontent.com/54118211/232930263-2e021a2a-45f0-4f73-98b7-2d06d2d8adb8.gif)
