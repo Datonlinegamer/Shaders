@@ -14,3 +14,4 @@ float4 main(in float2 uv
     x = pow(saturate(1.0 - abs(sin(uv.x * Scale + OffSet.x) - (uv.y * Scale + OffSet.y))), Intensity);
     return float4(0, x, 0, 1);
 }
+
