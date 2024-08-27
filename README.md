@@ -1,6 +1,6 @@
 # Shaders
  HLSL shaders
-1. Green wave written in VScode.
+
 
 
 
